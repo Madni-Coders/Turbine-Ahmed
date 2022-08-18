@@ -24,3 +24,11 @@
     line-height: 36px;
     font-size: 24px;
 }
+
+header {
+    display: flex;
+    justify-content: space-between;
+    height: 30px;
+    padding-top: 25px;
+    align-items: center;
+}
