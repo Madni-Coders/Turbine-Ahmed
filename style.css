@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+*{
+    margin: 0%;
+    padding: 0px;
+    
+}
+.padding-top-container{
+    padding: 0px 226px; 
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+}
+.links{
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+    width: 33.333%;
+}
+.link{
+    font-style: normal;
+    cursor: pointer;
+    font-weight: 400;
+    line-height: 36px;
+    font-size: 24px;
+}
